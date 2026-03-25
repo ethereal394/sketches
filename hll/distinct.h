@@ -5,8 +5,6 @@
 #include <random>
 #include <vector>
 
-#include "macro.h"
-
 namespace sketch {
 
 class DistinctSketch {
